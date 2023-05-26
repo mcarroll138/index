@@ -2,4 +2,5 @@ img {
   float: left;
   padding: auto;
   margin-right: 50px;
+  object-fit: contain;
 }
