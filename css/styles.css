@@ -1,24 +1,32 @@
 img {
+  width: 50%;
   float: left;
   padding: auto;
   margin-right: 50px;
   object-fit: contain;
+  border-style: inset;
 }
 
 .intro {
   text-align: center;
   font-size: 26pt;
   background-color: aqua;
+  margin: 1px;
+  margin-left: auto;
+  border: 20px solid green;
+  padding: 5%;
 }
-
 
 .headtwo {
   text-align: center;
-  font-size: 24pt;
+  font-size: 16pt;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: purple;
+  color: black;
+  padding: 5%;
 
 }
+
+
 
 
 
