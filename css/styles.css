@@ -2,6 +2,7 @@ img {
   width: 50%;
   float: left;
   padding: auto;
+  margin-top: 50px;
   margin-right: 50px;
   object-fit: contain;
   border-style: inset;
@@ -26,8 +27,7 @@ img {
 
 }
 
-
-
-
-
-/*typography styles, the box model (including margin, border, and padding), and floats.
+.followbox {
+  background-color: chartreuse;
+  color: blue;
+}
