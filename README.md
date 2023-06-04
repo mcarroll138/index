@@ -3,6 +3,7 @@
 ### By Michael Carroll
 
 A personal HTML project with links to github repository and github portfolio.
+Link to GH Page: https://mcarroll138.github.io/my-portfolio/
 
 ## Technologies used 
 - HTML
